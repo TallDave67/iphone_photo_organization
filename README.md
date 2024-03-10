@@ -8,7 +8,7 @@ After syncing to my local Windows machine 9,515 photos taken over the course of 
 
 I was not keen on sorting them in Windows File Explorer as this process did not complete in a few minutes and I was uncertain how long it would take.  There is another issue with sorting by file timestamps because there are 2 to choose from: creation or modification.  When a file is copied from one machine to another the creation timestamp can be changed to indicate the date and time of copy, whereas the modification timestamp will retain the value it had on the original machine, which is often the same as the original creation timestamp. See [this sleuthkit discussion.](https://sleuthkit.discourse.group/t/created-time-is-newer-than-modified-and-access-time/3608)
 
-> Note that with HEIC files there is another timestamp to exmaine, the date-taken timestamp, which is actually the best to use.  This requires a built version of the libheif.dll from C++ code and then installation of pyheif to access this DLL.  I do not have the time to go down this route right now.
+> Note that with HEIC files there is another timestamp to examine, the date-taken timestamp, which is actually the best to use.  This requires a built version of the libheif.dll from C++ code and then installation of pyheif to access this DLL.  I do not have the time to go down this route right now.
 
 So I asked ChatGPT with the following prompt to create a python script to reorganize my photos:
 
