@@ -2,7 +2,7 @@
 
 I recently faced a low disk space available on my iCloud drive, and the bulk of the allotted 50 gb was for photos.  I had to deal with it.
 
-Photos stored in iCloud are often taken by by more than one Apple client device, and as the years go by you may find it impossible to see these photos displayed in chronological order in a file explorer view.
+Photos stored in iCloud are often taken by more than one Apple client device, and as the years go by you may find it impossible to see these photos displayed in chronological order in a file explorer view.
 
 After syncing to my local Windows machine 9,515 photos taken over the course of 10 years, and then copying them to another folder not controlled by iCloud, I wanted to do a spot check to see that I had all of my photos.
 
