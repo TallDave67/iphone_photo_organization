@@ -44,5 +44,5 @@ def process_files_in_directory(directory):
             rename_and_move_file(file_path, directory)
 
 if __name__ == "__main__":
-    directory_path = "C:\\Users\\bellisd\\Documents\\a_personal\\phone_backup\\iphone\\20240309"
+    directory_path = "YOUR_DIRECTORY"
     process_files_in_directory(directory_path)
